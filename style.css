@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif
+}
+
+.caixa-superior {
+    background-image: url("./img/288957-fernanda-entregar-ate-dia\ 6.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100vw;
+    border: none;
+    background-position-y: 10%
+}
+
+.titulo-cabeçalho {
+    font-size: 24px;
+    line-height: 32px;
+    color: #ffffff;
+    display: inline;
+    position: relative;
+    top: 15px;
+    left: 15px;
+    cursor: pointer;
+
+}
+
+
+
+.link-cabeçalho {
+
+    Font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;
+    position: relative;
+    left: 150px;
+    top: 8px;
+    display: inline;
+    margin-left: 22px;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+h1 {
+    font-size: 58px;
+    line-height: 80px;
+    color: #ffffff;
+    cursor: pointer;
+    position: relative;
+    top: 370px;
+    margin-left: 63px;
+
+}
+
+.cabeçalho {
+    padding-top: 38px;
+    padding-left: 35px;
+
+
+}
+
+form {
+ 
+    opacity: 0;
+    background-color: #ffffff;
+    border-radius: 10px;
+    float: right;
+    padding: 7px;
+    margin-right: 30px;
+    position: relative;
+    left: -50px;
+    height: 418px;
+   transition: opacity 1s linear;
+   margin-top: -75px;
+
+
+}
+
+input {
+    display: block;
+    background: #F9F9F9;
+    border: 1px solid #E6E6E6;
+    border-radius: 5px;
+    width: 250px;
+    height: 40px;
+    margin-bottom: 20px;
+
+}
+
+textarea {
+    display: block;
+    width: 354px;
+    height: 120px;
+    border-radius: 5px;
+
+}
+
+.entre-em-contato {
+    font-size: 24px;
+    line-height: 32px;
+    color: #252B42;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+label {
+    font-size: 14px;
+    line-height: 24px;
+    color: #252B42;
+}
+
+button {
+    padding: 15px, 40px, 15px, 40px;
+    Width: 366px;
+    Height: 52px;
+    border-radius: 5px;
+    background-color: #40BB15;
+    font-size: 14px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-top: 35px;
+    cursor: pointer;
+}
+
+.caixa-central {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
+#titulo-meio {
+    font-size: 40px;
+    color: #252B42;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-decoration: none;
+}
+
+.card {
+
+    border: 1px solid #a9d6ff;
+    background-color: white;
+    border-radius: 10px;
+    width: 300px
+}
+
+.titulo-card {
+
+    background: #40BB15;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10 10 0 0px;
+
+}
+
+ul {
+    padding: 20px;
+
+}
+
+li {
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.caixa-inferior {
+    background-color: #090d50;
+}
+
+#titulo-inferior {
+
+    padding: 50px;
+    text-align: center;
+    font-size: 40px;
+    color: #FFFFFF
+}
+
+.paragrafo-inferior {
+    text-align: center;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 20px 50px 50px 50px;
+    margin-top: -30px;
+}
+
+.link-cabeçalho:hover {
+    color: blue;
+}
+
+.mostrar-formulario{
+  
+    opacity: 1;
+}
