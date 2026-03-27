@@ -31,8 +31,5 @@ Projeto desenvolvido durante o aprendizado inicial em HTML e CSS, com foco na co
 * Experiência do usuário em entrada de dados
 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=w" alt="html-logo"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
-
 <img src="https://github.com/JuFreitas95/landing-page/blob/master/img/desktop1.png?raw=true">
 <img src="https://github.com/JuFreitas95/landing-page/blob/master/img/desktop2.png?raw=true">
