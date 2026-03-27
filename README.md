@@ -1,10 +1,38 @@
-<h1 align="center"> Landing Page </h1>
+ 📩 Formulário de Contato
 
-<h2> Este é um projeto que utilizei as tecnologias : </h2>
+Aplicação web desenvolvida com HTML e CSS para coleta de dados de usuários e envio de informações diretamente para e-mail.
+
+ 🧠 Sobre o projeto
+
+Este projeto foi desenvolvido com o objetivo de praticar a criação de formulários e simular o envio de dados de contato, reproduzindo uma funcionalidade comum em aplicações reais.
+
+A aplicação permite que o usuário preencha suas informações e envie uma mensagem, que é direcionada para o e-mail configurado.
+
+🚀 Tecnologias
+
+* HTML
+* CSS
+
+⚙️ Funcionalidades
+
+* ✔️ Formulário de contato
+* ✔️ Coleta de dados do usuário
+* ✔️ Envio de informações para e-mail
+* ✔️ Interface simples e responsiva
+
+ 📌 Contexto
+
+Projeto desenvolvido durante o aprendizado inicial em HTML e CSS, com foco na construção de interfaces e estruturação de formulários.
+
+ 📈 Aprendizados
+
+* Estruturação de formulários
+* Organização de layout com HTML e CSS
+* Experiência do usuário em entrada de dados
+
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=w" alt="html-logo"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 
-<h3> Uma Página de Contabilidade, para conhecer sobre a empresa e seus trabalhos, onde também o usuário pode digitar seus dados tirar suas dúvidas e receber as informações pelo e-mail cadastrado.</h3>
-<br>
 <img src="https://github.com/JuFreitas95/landing-page/blob/master/img/desktop1.png?raw=true">
 <img src="https://github.com/JuFreitas95/landing-page/blob/master/img/desktop2.png?raw=true">
